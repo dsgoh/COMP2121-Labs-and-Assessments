@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\tomnlittle\Desktop\Week 3 Lab\Week 3 Lab\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\tomnlittle\Desktop\Week 3 Lab\Week 3 Lab\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\tomnlittle\Desktop\Week 3 Lab\Week 3 Lab\Debug\Week 3 Lab.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Week 3 Lab.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Week 3 Lab.map</FILE>
+  <FILE>Week 3 Lab.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <memory><FILE>C:\Users\tomnlittle\Desktop\Week 3 Lab\Week 3 Lab\main.asm</FILE><LINE>11</LINE></memory>
+  <start><FILE>C:\Users\tomnlittle\Desktop\Week 3 Lab\Week 3 Lab\main.asm</FILE><LINE>14</LINE></start>
+  <outer_loop><FILE>C:\Users\tomnlittle\Desktop\Week 3 Lab\Week 3 Lab\main.asm</FILE><LINE>34</LINE></outer_loop>
+  <halt><FILE>C:\Users\tomnlittle\Desktop\Week 3 Lab\Week 3 Lab\main.asm</FILE><LINE>65</LINE></halt>
+  <inner_loop><FILE>C:\Users\tomnlittle\Desktop\Week 3 Lab\Week 3 Lab\main.asm</FILE><LINE>48</LINE></inner_loop>
+  <swap_function><FILE>C:\Users\tomnlittle\Desktop\Week 3 Lab\Week 3 Lab\main.asm</FILE><LINE>68</LINE></swap_function>
+  <no_swap><FILE>C:\Users\tomnlittle\Desktop\Week 3 Lab\Week 3 Lab\main.asm</FILE><LINE>52</LINE></no_swap>
+ </LABELS>
+</ASSEMBLER_INFO>
